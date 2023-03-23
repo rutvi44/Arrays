@@ -1,5 +1,5 @@
 ﻿/*
- * Name of project: InClass4RM
+ * Name of project: Arrays
  * Purpose: To display the final exam score, average exam score, maximum score and its index, minimum score and its index.
  *
  * Revision Histrory:
